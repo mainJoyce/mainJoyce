@@ -1,7 +1,7 @@
 ## 💻 Joyce Stefany
   **`Futura Cientista de Dados`**
   
-19 anos, Reife-PE, atualmete cursando o 2° período de Análise e Desenvolvimento de Sistemas no [Centro Universitário Tiradentes (UNIT)](https://www.unit.br) e com interesse nas áreas de Dados e IA. Pretendo me especializar como Cientista de Dados e compartilho, nessa conta, meus projetos acadêmico e, posteriormente, meus projetos pessoais.
+19 anos, Recife-PE, atualmete cursando o 2° período de Análise e Desenvolvimento de Sistemas no [Centro Universitário Tiradentes (UNIT)](https://www.unit.br) e com interesse nas áreas de Dados e IA. Pretendo me especializar como Cientista de Dados e compartilho, nessa conta, meus projetos acadêmico e, posteriormente, meus projetos pessoais.
 
 ## 👩‍🔬 Linguagens e Tecnologias
 
