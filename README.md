@@ -118,6 +118,14 @@ Projeto em desenvolvimento para gestão financeira pessoal, envolvendo recursos 
 ---
 
 <div align="center">
+  
+  <img src="https://raw.githubusercontent.com/mainJoyce/mainjoyce/output/snake.svg" alt="Snake animation"/>
+  
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7F00FF,50:3B176B,100:000000" width="100%"/>
 
