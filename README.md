@@ -8,29 +8,15 @@
 
 <br><br>
 
-<table width="100%">
-<tr>
-
-<td align="center">
-<a href="https://github.com/mainJoyce">
-<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+  <a href="https://www.linkedin.com/in/joyce-stefany7/">
+    <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mainJoyce">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:joycestefany.ds@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</td>
-
-<td align="center">
-<a href="https://www.linkedin.com/in/joyce-stefany7/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
-</a>
-</td>
-
-<td align="center">
-<a href="mailto:joycestefany.ds@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Email"/>
-</a>
-</td>
-
-</tr>
-</table>
 
 </div>
 
