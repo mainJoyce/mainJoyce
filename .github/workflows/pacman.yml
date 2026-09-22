@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate Pac-Man
 
 on:
   schedule:
@@ -18,13 +18,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: mainJoyce
-          outputs: dist/snake.svg?color_snake=purple
+          games: "pacman"
 
-      - name: push snake.svg to the output branch
+      - name: Push Pac-Man to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
