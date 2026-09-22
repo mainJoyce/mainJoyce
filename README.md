@@ -119,7 +119,7 @@ Projeto em desenvolvimento para gestão financeira pessoal, envolvendo recursos 
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/mainJoyce/mainjoyce/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/mainJoyce/mainjoyce/output/snake.svg" alt="Snake"/>
   
 </div>
 
